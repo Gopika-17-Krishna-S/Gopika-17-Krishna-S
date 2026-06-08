@@ -129,6 +129,20 @@ Key Features:
 
 ---
 
+## 🤖 AutoDoc AI – AI-Powered Documentation Generator
+
+**Automated Codebase Documentation & API Visualization Platform**
+
+**Tech Stack:**  
+Django • Django REST Framework • Python • SQLite • Git • GitHub • HTML • CSS
+
+Key Features:
+- Built a platform that automatically generates API documentation from Flask and FastAPI projects.
+- Integrated GitHub repository analysis for automated codebase scanning and endpoint discovery.
+- Implemented code intelligence to identify workflows, APIs, and project structures.
+- Developed interactive API visualization and documentation export functionality.
+- Designed secure authentication and project management modules using Django and DRF.
+
 # 🎓 Education
 
 **B.Tech – Computer Science and Engineering**  
